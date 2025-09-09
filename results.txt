@@ -1,0 +1,4 @@
+Addition of 20 and 5: 25
+Subtraction of 20 and 5: 15
+Multiplication of 20 and 5: 100
+Division of 20 and 5: 4.0

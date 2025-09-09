@@ -1,0 +1,11 @@
+# Requirements for the Spam Email Detector project
+# This file lists the dependencies needed to run the application.
+Python 3.7+
+
+Streamlit
+
+pandas
+
+scikit-learn
+
+joblib

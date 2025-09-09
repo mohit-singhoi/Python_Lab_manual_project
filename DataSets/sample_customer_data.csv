@@ -1,0 +1,1001 @@
+Age,Income,Spending_Score,Height,Weight,Gender,Region,Education_Level
+56,125186,58,158.3,64.6,Male,West,High School
+69,54674,67,175.4,50.1,Male,Central,Doctorate
+46,55854,56,158.9,63.8,Female,East,Doctorate
+32,66271,40,183.3,73.9,Male,South,Doctorate
+60,93688,98,171.8,55.5,Other,West,High School
+25,58518,40,160.1,55.6,Female,South,High School
+38,131076,91,186.6,75.2,Female,North,Doctorate
+56,30267,77,158.9,69.3,Male,South,Doctorate
+36,110825,33,172.4,70.5,Other,South,Postgraduate
+40,21062,6,168.0,58.6,Female,West,Doctorate
+28,136664,88,178.0,66.5,Female,North,Graduate
+28,70448,19,180.6,56.1,Male,South,Graduate
+41,115462,80,165.3,83.4,Male,Central,Doctorate
+53,26229,40,157.5,85.5,Other,East,High School
+57,76793,92,169.6,42.3,Male,South,Postgraduate
+41,134813,97,158.2,56.1,Other,North,High School
+20,67915,59,185.1,47.6,Female,South,Doctorate
+39,24632,59,166.4,60.2,Other,East,Graduate
+19,124592,48,161.3,68.7,Other,North,Postgraduate
+41,23596,41,166.8,48.3,Other,West,High School
+61,129779,13,151.5,56.2,Female,North,High School
+47,26168,45,155.3,54.9,Male,West,Doctorate
+55,128099,89,177.0,73.1,Female,North,Postgraduate
+19,27561,53,158.4,71.0,Male,East,Graduate
+38,93794,42,154.5,59.2,Other,East,Doctorate
+50,102152,63,170.4,72.7,Other,North,Postgraduate
+29,145036,27,176.9,61.8,Other,South,High School
+39,144049,38,172.2,65.9,Other,East,Doctorate
+61,46734,60,175.0,95.1,Other,West,High School
+42,26371,7,157.4,90.1,Male,West,High School
+66,138894,5,150.8,50.5,Male,Central,Doctorate
+44,46069,45,180.0,82.4,Other,West,Doctorate
+59,99905,58,161.8,82.2,Female,Central,Doctorate
+45,32910,31,162.5,52.8,Female,North,Doctorate
+33,93479,23,178.3,82.3,Other,North,Doctorate
+32,97735,42,170.6,93.1,Male,North,High School
+64,101264,10,169.6,53.2,Female,South,Graduate
+68,43275,32,186.7,56.2,Female,South,Graduate
+61,92274,53,158.6,85.3,Female,Central,Doctorate
+69,101449,30,174.3,74.1,Other,West,High School
+20,120776,39,165.6,78.3,Female,West,Graduate
+54,80004,31,167.7,75.1,Female,North,Graduate
+68,82981,82,180.3,75.9,Female,East,Graduate
+24,104659,2,170.1,50.1,Female,South,High School
+38,74553,78,170.4,85.7,Male,South,Doctorate
+26,68447,77,175.7,87.5,Other,North,Doctorate
+56,54529,93,161.4,66.6,Other,South,Doctorate
+35,146394,12,156.6,69.3,Male,North,Postgraduate
+21,95703,39,154.6,47.0,Male,Central,Postgraduate
+42,96090,66,145.3,77.7,Other,West,Postgraduate
+31,37260,96,185.6,78.6,Female,East,High School
+67,132581,13,154.0,69.1,Female,West,Graduate
+26,23812,46,162.8,86.9,Other,West,Graduate
+43,48024,27,162.2,65.0,Female,Central,High School
+19,78656,17,168.1,78.5,Male,South,High School
+37,136148,95,173.2,54.7,Female,East,Doctorate
+45,47285,98,173.6,69.6,Female,South,Doctorate
+64,112436,60,159.2,67.4,Female,West,Postgraduate
+24,136421,64,163.3,73.4,Other,North,Postgraduate
+61,21605,88,167.8,64.5,Male,West,High School
+25,91158,35,162.5,68.0,Female,South,Postgraduate
+64,92303,70,181.1,82.4,Other,West,Graduate
+52,47139,83,169.9,63.4,Female,North,High School
+31,97149,30,172.3,45.9,Male,Central,High School
+34,76138,71,171.6,96.2,Female,South,Graduate
+53,138205,74,176.7,90.7,Male,West,Doctorate
+67,96125,96,166.8,50.6,Female,South,Doctorate
+57,33918,98,152.0,80.3,Male,Central,Graduate
+21,105655,63,169.0,62.5,Female,West,Graduate
+19,47446,28,158.5,74.0,Male,West,Postgraduate
+23,144040,60,159.7,74.4,Female,South,High School
+59,33046,79,170.9,66.5,Female,South,Postgraduate
+21,149922,94,177.4,58.2,Other,North,Graduate
+46,44818,37,165.2,59.6,Other,Central,Postgraduate
+35,120894,93,168.1,56.3,Male,North,Graduate
+43,135751,22,182.0,57.5,Female,West,Postgraduate
+61,24324,68,167.4,69.0,Male,South,Postgraduate
+51,96323,20,191.0,59.3,Other,West,Doctorate
+27,29111,96,170.7,80.2,Male,West,Graduate
+53,58110,68,147.4,92.3,Male,East,Postgraduate
+31,36389,91,172.5,61.3,Other,East,High School
+48,142177,64,168.8,73.6,Female,West,Postgraduate
+65,61427,17,177.9,77.5,Male,South,Postgraduate
+32,99579,12,171.7,77.1,Other,West,High School
+25,48746,22,163.6,71.1,Female,East,Graduate
+31,142883,17,152.8,81.1,Other,South,Doctorate
+40,107886,10,162.9,77.2,Male,West,Doctorate
+57,127141,65,156.5,51.4,Female,Central,Doctorate
+38,20117,22,159.2,83.0,Female,Central,High School
+33,145808,90,170.9,83.3,Other,West,Postgraduate
+62,132221,82,181.7,58.6,Other,South,Graduate
+35,104471,50,168.9,70.6,Other,West,Postgraduate
+64,132613,14,153.0,80.2,Female,West,Doctorate
+41,33234,64,169.4,66.9,Female,East,Postgraduate
+43,149597,47,177.0,86.1,Male,Central,High School
+42,123864,29,158.9,105.5,Female,East,High School
+62,73441,76,163.7,58.2,Male,East,Graduate
+58,20846,36,165.1,49.3,Other,West,Graduate
+46,30954,99,157.2,74.6,Other,East,Doctorate
+32,99239,52,171.5,80.8,Female,Central,Graduate
+62,133689,76,163.8,66.5,Other,East,Postgraduate
+18,66514,7,169.2,91.8,Other,Central,High School
+42,108236,29,156.1,49.9,Female,East,High School
+24,117579,11,160.6,80.4,Male,Central,High School
+26,148644,33,172.2,60.9,Female,East,Graduate
+41,26469,6,161.3,95.8,Male,East,High School
+18,50105,79,182.3,99.9,Female,South,High School
+61,62101,32,161.0,58.5,Female,Central,High School
+25,84323,51,167.2,61.8,Other,Central,Doctorate
+41,111922,75,174.3,82.9,Female,Central,Doctorate
+28,78067,58,150.8,64.2,Female,North,Graduate
+68,69376,87,147.4,69.3,Male,East,High School
+34,65587,26,149.7,70.4,Other,Central,Graduate
+25,56976,98,177.6,41.2,Male,North,High School
+52,124587,46,159.5,69.8,Male,South,High School
+52,147534,98,190.6,59.7,Other,Central,High School
+50,87584,29,159.4,62.6,Other,Central,Graduate
+22,124537,4,166.8,91.7,Other,North,Graduate
+59,98477,81,180.4,51.2,Female,East,High School
+56,130911,99,185.1,82.2,Other,South,Postgraduate
+58,62533,13,185.6,65.8,Other,Central,Graduate
+45,21828,39,177.1,65.8,Other,East,Doctorate
+24,21917,15,175.2,81.9,Male,South,Graduate
+26,40618,29,170.9,75.1,Male,West,High School
+25,52254,29,172.8,78.6,Female,West,Postgraduate
+29,125292,75,159.5,84.5,Male,South,High School
+51,136714,32,156.8,65.0,Female,North,Doctorate
+50,67362,2,165.0,60.8,Male,South,Graduate
+65,40128,47,163.3,53.7,Other,South,Graduate
+40,143781,78,160.5,57.6,Male,North,High School
+41,131281,84,172.0,114.2,Female,North,High School
+54,79383,22,174.6,88.7,Male,East,Doctorate
+52,85545,75,165.9,49.7,Other,East,Postgraduate
+61,102180,27,179.8,50.2,Female,North,Doctorate
+57,107958,67,153.6,77.2,Other,West,Postgraduate
+39,29865,81,163.1,78.2,Other,West,Graduate
+44,22219,56,157.8,78.2,Female,South,Postgraduate
+52,59809,92,146.3,66.2,Other,Central,Postgraduate
+18,136748,93,164.2,68.1,Other,South,Graduate
+52,25287,21,163.8,74.9,Male,South,Graduate
+54,146593,47,180.1,71.3,Other,Central,Graduate
+64,54387,80,171.3,36.7,Other,North,Doctorate
+31,28512,59,154.8,66.6,Other,West,Graduate
+20,21342,84,183.5,57.2,Other,South,High School
+18,83076,6,177.2,72.6,Female,Central,Graduate
+22,128872,19,170.8,114.8,Male,East,Graduate
+43,39216,57,162.7,75.5,Other,South,Graduate
+31,137512,69,155.4,65.3,Other,West,Postgraduate
+56,136682,3,161.3,83.8,Female,North,Doctorate
+44,113070,1,175.9,77.2,Other,South,Graduate
+26,99767,58,183.8,76.3,Female,South,Doctorate
+32,117829,38,180.4,79.1,Male,Central,High School
+32,46614,15,160.1,100.8,Male,East,High School
+43,56258,34,153.8,53.0,Other,East,Graduate
+59,113789,61,166.4,77.1,Other,North,High School
+30,62078,35,147.3,56.1,Other,West,Doctorate
+68,126288,64,168.2,78.3,Female,North,Postgraduate
+49,103524,25,163.5,56.2,Other,South,Graduate
+56,116573,24,160.3,63.7,Other,South,High School
+66,32219,12,149.1,65.6,Male,East,Doctorate
+69,20235,18,170.1,84.6,Other,West,Doctorate
+49,62929,15,159.7,83.8,Male,Central,High School
+21,147309,80,153.3,51.3,Other,West,Doctorate
+47,87444,27,136.3,70.8,Male,South,Doctorate
+54,28567,72,164.7,59.4,Other,Central,Graduate
+40,121834,60,182.7,51.1,Male,West,Doctorate
+56,90792,46,181.6,66.7,Female,West,High School
+62,85441,89,160.4,65.4,Male,Central,Graduate
+32,104555,17,159.0,106.4,Male,South,High School
+60,93698,93,169.7,76.5,Male,West,Postgraduate
+46,144450,53,155.0,49.3,Other,Central,High School
+53,137248,8,168.0,61.5,Other,South,High School
+30,25415,79,172.7,85.3,Other,Central,Graduate
+49,56159,27,177.3,101.3,Female,Central,Doctorate
+24,63925,46,164.0,46.2,Female,West,High School
+68,146523,50,163.0,41.8,Male,South,Graduate
+39,25951,71,156.2,98.1,Female,West,Postgraduate
+45,107388,3,156.7,75.8,Male,North,Graduate
+19,28007,93,162.7,57.0,Male,North,Graduate
+59,146730,64,168.7,78.0,Male,South,Doctorate
+62,61832,44,174.1,30.5,Female,Central,High School
+23,78596,53,157.0,70.1,Other,West,Postgraduate
+45,141101,24,179.9,74.9,Female,West,Graduate
+45,50523,60,162.3,83.9,Male,South,High School
+61,108861,3,164.8,54.8,Male,South,High School
+61,144194,20,157.5,71.3,Female,North,Graduate
+37,106740,46,140.8,56.1,Male,East,High School
+47,35524,15,173.8,73.8,Male,South,Graduate
+28,149028,25,172.4,56.6,Female,East,Graduate
+45,39282,94,162.2,63.9,Female,South,Graduate
+42,43930,78,165.7,55.1,Female,Central,Postgraduate
+56,20077,71,170.2,79.8,Male,Central,Graduate
+50,125881,17,149.4,82.9,Male,North,Doctorate
+18,145501,84,159.7,66.5,Other,North,High School
+44,40611,9,172.9,70.6,Other,East,Postgraduate
+69,36984,38,152.5,48.3,Female,South,High School
+30,34060,48,167.9,65.5,Other,West,Postgraduate
+58,102985,60,151.4,69.2,Male,North,Doctorate
+20,104056,63,169.7,109.3,Other,West,Postgraduate
+56,145329,86,164.6,53.3,Male,West,Postgraduate
+23,63303,2,148.8,92.0,Female,South,Postgraduate
+25,79207,88,176.6,85.0,Female,East,High School
+44,95046,72,157.7,74.2,Male,South,Graduate
+26,49287,11,156.9,96.4,Other,North,High School
+54,113709,64,167.0,75.6,Female,West,Graduate
+50,59711,77,176.5,75.8,Female,South,High School
+68,31954,81,154.8,69.2,Other,South,Doctorate
+59,93340,72,165.6,88.4,Other,South,Doctorate
+61,92101,21,169.3,86.4,Male,North,Postgraduate
+41,91520,18,171.9,60.6,Other,East,Doctorate
+32,107062,94,166.8,50.2,Other,South,Postgraduate
+49,122974,64,161.3,67.0,Other,North,Graduate
+49,38574,82,156.7,58.0,Male,West,Doctorate
+41,29184,95,165.9,69.0,Male,Central,Graduate
+58,39096,38,154.3,88.6,Female,North,High School
+69,87728,32,135.8,63.1,Male,Central,Graduate
+66,54016,11,169.4,69.4,Female,South,High School
+66,31246,45,174.0,70.9,Other,South,Graduate
+69,65558,89,141.4,82.7,Female,North,Graduate
+29,138721,33,154.9,36.3,Female,Central,Doctorate
+56,38381,41,171.2,60.9,Other,South,Graduate
+19,147796,8,185.6,73.2,Female,West,Doctorate
+20,56455,11,165.2,88.0,Male,East,Doctorate
+66,112263,86,157.7,62.6,Male,East,Postgraduate
+54,24018,51,163.2,41.9,Male,South,Postgraduate
+66,31302,88,178.7,79.3,Male,Central,High School
+34,87506,41,158.5,60.5,Female,South,Graduate
+66,61157,17,157.0,52.2,Female,Central,High School
+19,74917,76,160.2,60.6,Other,West,Graduate
+19,112738,46,155.5,67.2,Female,Central,Postgraduate
+45,116646,32,166.2,60.9,Female,South,Postgraduate
+40,103122,79,181.2,36.9,Female,West,Graduate
+54,44519,80,168.2,83.5,Other,North,Graduate
+49,116809,54,162.5,89.1,Male,East,Postgraduate
+50,107487,86,162.1,79.8,Female,South,Postgraduate
+18,76819,92,149.4,52.9,Other,South,High School
+36,100910,20,173.8,67.0,Other,South,Postgraduate
+19,140430,33,164.2,69.9,Other,West,Graduate
+61,91324,74,163.2,79.0,Male,North,High School
+43,25408,40,196.9,80.0,Female,Central,Graduate
+49,79379,32,168.0,59.0,Other,North,Doctorate
+23,45053,97,157.5,71.2,Male,West,High School
+49,29446,2,160.7,76.9,Other,South,Graduate
+21,20922,97,176.5,91.8,Other,East,Postgraduate
+28,118723,33,166.1,80.6,Other,South,Doctorate
+34,71356,77,150.6,81.8,Other,Central,Graduate
+55,30789,30,174.2,71.3,Other,East,High School
+41,117720,33,158.3,91.2,Male,South,Graduate
+22,86656,77,183.7,76.1,Female,East,Doctorate
+69,64028,26,175.8,57.1,Female,North,High School
+51,84484,22,160.5,91.1,Female,West,Doctorate
+23,52154,66,177.8,80.5,Female,South,Graduate
+39,102870,38,165.7,63.4,Male,Central,Postgraduate
+28,22336,90,173.5,62.8,Male,North,Postgraduate
+65,123677,46,169.8,74.4,Male,South,Graduate
+33,87779,15,156.5,76.9,Other,North,Graduate
+50,39029,98,158.6,73.0,Other,Central,Graduate
+26,79201,44,175.3,74.7,Other,South,High School
+23,52265,49,161.7,95.5,Female,Central,Doctorate
+33,122916,75,161.0,86.1,Other,East,Doctorate
+46,132250,61,155.4,72.9,Female,Central,Doctorate
+20,136553,67,169.2,84.1,Other,East,Graduate
+37,63872,6,185.6,54.5,Female,South,Doctorate
+53,66197,9,154.3,76.0,Other,East,Graduate
+36,145733,6,165.2,97.1,Other,South,High School
+43,75180,73,179.1,66.7,Male,South,Postgraduate
+20,43710,95,164.2,57.3,Other,West,Graduate
+36,49486,32,169.5,60.2,Other,South,Graduate
+37,91907,41,154.4,53.7,Male,East,Postgraduate
+49,148876,76,169.3,58.2,Female,West,Postgraduate
+24,91895,8,163.1,64.4,Male,West,High School
+69,84435,72,174.9,48.9,Male,South,Doctorate
+58,60631,50,176.9,70.2,Female,Central,Graduate
+50,149038,92,190.9,83.5,Other,Central,Doctorate
+57,121532,62,170.8,56.4,Female,West,Graduate
+56,40103,84,168.3,92.8,Other,South,High School
+35,84772,62,166.9,77.7,Other,Central,Postgraduate
+57,146108,7,161.5,85.5,Female,South,High School
+18,34382,75,168.4,60.1,Male,South,Postgraduate
+28,104291,84,162.0,82.8,Female,West,Doctorate
+45,121195,80,166.7,53.6,Other,West,Doctorate
+42,23756,4,178.2,83.4,Female,North,High School
+67,40609,6,154.9,72.6,Female,Central,Postgraduate
+40,134074,58,176.4,78.3,Other,Central,High School
+48,36478,22,178.2,52.4,Male,Central,Postgraduate
+47,120978,26,163.8,56.6,Female,East,Postgraduate
+59,59666,3,143.8,79.0,Other,South,Doctorate
+52,95683,41,158.9,55.8,Other,West,Doctorate
+24,119097,60,178.0,76.9,Female,Central,Postgraduate
+33,144714,14,164.8,49.5,Male,North,Postgraduate
+43,120420,75,155.0,82.7,Female,Central,Postgraduate
+65,91315,82,160.0,51.5,Male,South,Doctorate
+69,97834,12,173.4,78.3,Male,South,Doctorate
+66,146205,87,170.5,79.4,Male,West,Graduate
+19,34153,12,162.6,59.5,Male,East,Postgraduate
+18,129415,13,161.3,78.7,Female,West,Graduate
+65,96325,25,161.1,73.9,Other,Central,Postgraduate
+29,129701,45,155.8,61.9,Other,North,Doctorate
+22,32999,19,181.2,54.9,Other,West,Graduate
+54,75318,55,161.8,40.6,Other,East,Graduate
+49,20814,45,177.2,75.2,Other,West,High School
+26,135033,8,180.2,46.5,Other,South,Postgraduate
+58,96077,93,175.0,71.4,Female,Central,Doctorate
+52,110474,53,160.7,66.0,Male,Central,High School
+36,22443,55,169.0,80.2,Other,Central,High School
+65,95993,32,164.8,65.5,Female,Central,Postgraduate
+33,95916,51,156.0,65.1,Other,Central,High School
+20,93319,44,168.2,81.0,Other,Central,Postgraduate
+37,145885,82,153.2,75.0,Male,North,High School
+41,129777,70,176.9,74.7,Male,East,Postgraduate
+50,37368,18,160.4,77.0,Male,Central,Doctorate
+41,35328,83,167.0,47.0,Other,East,Postgraduate
+69,76942,22,167.8,81.4,Other,Central,Postgraduate
+28,111751,37,162.4,79.2,Other,West,Graduate
+66,119131,96,170.9,54.7,Male,Central,Doctorate
+25,47306,56,160.3,66.3,Female,South,Doctorate
+53,105451,59,173.7,69.4,Other,North,Doctorate
+55,59915,3,151.5,68.0,Other,West,High School
+57,57219,28,166.3,75.0,Other,West,Graduate
+37,100879,74,184.4,91.5,Female,South,Doctorate
+52,131939,35,155.0,86.2,Other,Central,High School
+65,84644,61,158.2,50.3,Female,North,High School
+42,80279,93,170.1,79.3,Other,West,High School
+52,73028,54,166.8,89.9,Female,North,Graduate
+42,124263,63,168.5,75.8,Other,West,High School
+46,20126,79,169.9,86.4,Male,Central,Graduate
+35,72329,97,171.3,100.2,Male,West,Postgraduate
+63,47632,7,176.1,85.4,Male,West,High School
+35,127099,76,169.1,73.7,Male,East,Doctorate
+19,85310,49,162.6,85.7,Other,Central,High School
+52,129945,94,171.7,72.2,Male,South,Postgraduate
+33,75176,85,184.0,70.4,Female,South,Postgraduate
+58,139797,31,163.7,64.7,Male,Central,High School
+53,106066,58,155.3,93.5,Male,South,Postgraduate
+50,125500,61,176.1,57.7,Male,Central,Graduate
+21,146413,24,163.8,93.0,Other,South,Graduate
+50,64327,20,143.3,77.5,Male,East,High School
+31,88904,37,173.5,49.0,Female,South,Graduate
+38,23797,4,159.6,75.5,Male,West,Graduate
+65,67882,92,164.1,38.5,Male,Central,Doctorate
+37,33718,20,168.3,79.4,Male,North,High School
+25,54560,60,166.9,83.3,Female,North,Postgraduate
+24,96589,24,172.1,61.1,Male,Central,High School
+20,42116,50,160.6,71.9,Female,East,Graduate
+34,56244,49,170.1,99.3,Female,South,Doctorate
+50,121721,51,162.4,62.4,Male,East,High School
+65,21645,96,172.4,54.1,Female,North,High School
+29,67523,36,171.2,92.2,Other,Central,Graduate
+68,144085,98,155.6,99.4,Male,Central,Graduate
+39,137718,66,175.9,70.1,Male,East,High School
+39,39256,79,159.6,85.2,Female,East,Graduate
+63,121376,34,173.1,90.1,Female,South,Graduate
+47,120158,36,168.7,58.9,Male,West,Graduate
+55,73173,6,183.4,62.7,Other,West,Graduate
+55,57430,39,162.8,88.5,Female,South,Graduate
+62,59282,42,161.5,95.3,Female,West,Doctorate
+68,139719,58,164.8,78.4,Other,North,Graduate
+25,83374,12,162.0,56.8,Other,West,Postgraduate
+44,88244,3,173.0,99.8,Male,South,High School
+44,31694,18,148.8,62.0,Other,West,Doctorate
+51,76264,40,154.5,65.0,Male,Central,Doctorate
+38,95060,21,154.3,75.1,Other,East,Graduate
+47,117416,15,174.5,93.3,Female,North,High School
+50,77545,97,182.1,82.8,Male,Central,Postgraduate
+45,138195,99,164.0,76.2,Male,Central,Graduate
+64,59224,26,163.3,76.9,Male,South,High School
+50,122516,8,165.7,70.7,Other,East,Graduate
+22,117945,94,176.6,78.4,Female,East,Graduate
+65,33224,87,155.7,32.1,Male,North,Graduate
+36,60738,42,167.4,65.6,Male,South,Graduate
+21,45150,44,174.8,73.6,Male,North,Graduate
+52,83731,14,170.0,52.7,Male,West,Graduate
+66,69688,78,166.9,75.8,Female,Central,Graduate
+34,119929,2,175.0,66.9,Other,North,Postgraduate
+61,128618,37,138.0,96.3,Female,Central,Doctorate
+45,93509,69,171.8,93.6,Male,South,Postgraduate
+47,28577,38,158.5,63.0,Female,West,Graduate
+46,28070,41,146.7,67.7,Male,South,Graduate
+63,146161,62,170.1,68.9,Other,West,Postgraduate
+23,28666,60,178.7,63.2,Other,West,Postgraduate
+52,77761,14,163.6,72.9,Other,Central,Doctorate
+58,141178,89,174.5,58.6,Male,South,Postgraduate
+54,56368,84,181.1,53.0,Female,South,Doctorate
+41,26783,2,178.1,79.3,Other,North,Graduate
+46,131530,70,181.4,79.4,Male,South,High School
+66,61914,17,172.4,57.9,Male,North,High School
+63,90507,89,165.8,83.4,Female,East,High School
+48,147738,28,149.0,60.5,Other,East,High School
+52,99026,66,162.5,73.8,Male,East,Graduate
+50,135893,35,156.6,82.3,Female,South,High School
+69,131255,5,186.7,69.5,Other,South,Postgraduate
+38,130616,65,163.2,76.8,Female,North,Postgraduate
+49,87526,40,166.2,62.3,Female,West,High School
+40,90835,76,170.5,67.1,Male,North,Postgraduate
+50,65765,56,165.4,66.9,Male,East,Doctorate
+20,39956,36,182.0,58.8,Male,North,Graduate
+35,107895,45,158.8,67.3,Female,West,High School
+42,66240,23,166.9,46.8,Male,South,High School
+59,141008,47,157.6,62.6,Female,North,Graduate
+48,57148,31,151.8,65.7,Female,East,Postgraduate
+20,114270,11,158.9,66.2,Male,East,Graduate
+57,147978,10,164.6,66.4,Other,South,Graduate
+63,24757,67,160.7,69.1,Other,North,Postgraduate
+41,39097,14,158.1,77.2,Other,West,Graduate
+67,30395,80,150.9,83.1,Female,South,Postgraduate
+49,36241,74,164.2,60.3,Female,North,Postgraduate
+64,123892,93,150.0,52.0,Female,Central,Graduate
+39,47696,10,172.6,54.4,Male,East,Doctorate
+40,135654,76,165.8,62.7,Female,West,Postgraduate
+19,90480,94,150.4,64.7,Male,West,Graduate
+44,66163,1,161.9,58.5,Male,West,Postgraduate
+59,39816,5,157.5,50.6,Other,East,Doctorate
+19,69840,20,168.2,63.2,Other,North,Doctorate
+43,122547,8,178.4,72.7,Other,South,High School
+34,72853,43,146.2,78.9,Male,North,Postgraduate
+57,44917,76,166.2,61.6,Male,South,Postgraduate
+50,116731,1,163.4,63.8,Male,West,Graduate
+26,41566,57,171.7,56.1,Female,North,Postgraduate
+60,95452,64,167.1,69.5,Male,West,High School
+65,82823,84,157.5,57.3,Other,Central,Doctorate
+56,141392,28,161.8,78.6,Other,West,Doctorate
+46,40806,37,157.0,43.2,Male,West,High School
+59,95520,47,175.8,64.6,Male,South,Postgraduate
+43,21759,76,165.2,74.5,Other,Central,Postgraduate
+52,146092,37,184.0,72.8,Male,West,High School
+67,61949,49,164.4,110.4,Other,West,Graduate
+42,112374,44,157.9,75.2,Female,Central,Doctorate
+41,22482,56,149.9,54.9,Other,Central,High School
+30,44442,28,147.0,68.6,Female,North,High School
+24,53719,79,149.2,43.4,Male,South,Postgraduate
+53,78066,6,167.7,68.8,Male,Central,Doctorate
+62,113501,61,170.1,57.5,Female,Central,Postgraduate
+37,22079,20,149.2,83.7,Male,East,High School
+18,22717,78,174.0,61.8,Female,Central,Graduate
+25,79676,2,160.2,68.2,Male,South,Doctorate
+63,47952,73,166.5,60.5,Other,West,High School
+33,106444,37,181.1,96.1,Male,West,High School
+31,62460,20,174.0,65.2,Other,West,Graduate
+29,110397,26,162.3,97.5,Other,West,High School
+68,92847,29,156.1,82.2,Female,East,High School
+40,113607,1,143.5,77.2,Male,Central,Doctorate
+32,109106,35,157.8,75.5,Female,West,Doctorate
+45,38449,70,162.9,75.9,Male,North,Doctorate
+51,53536,59,155.1,41.1,Other,West,Postgraduate
+19,84077,69,163.7,65.8,Other,Central,Graduate
+49,58258,33,165.8,82.7,Male,West,Doctorate
+40,68302,51,162.8,69.3,Male,East,Postgraduate
+39,145937,78,158.5,48.9,Female,South,Postgraduate
+68,48865,12,166.7,69.2,Male,South,Graduate
+42,26645,20,169.4,95.6,Male,Central,Graduate
+39,139771,53,154.1,88.7,Male,South,High School
+39,58000,88,179.1,69.1,Female,South,Postgraduate
+66,46737,43,164.0,84.3,Male,North,Doctorate
+69,31485,98,165.2,64.5,Other,Central,Graduate
+59,58565,89,172.1,44.4,Female,Central,Postgraduate
+23,45522,50,167.3,56.1,Female,South,Doctorate
+32,139614,29,174.5,93.4,Other,South,Postgraduate
+60,85155,57,167.9,65.9,Other,South,Graduate
+54,75168,39,158.9,66.3,Other,East,High School
+50,72487,95,168.6,65.5,Male,West,Postgraduate
+25,149948,56,153.6,98.6,Other,East,Doctorate
+61,32342,43,166.1,94.4,Male,Central,Graduate
+61,60806,50,164.7,103.3,Female,North,High School
+22,68770,23,162.9,67.6,Female,West,Doctorate
+56,98623,44,163.7,74.4,Other,North,Doctorate
+21,123177,38,146.2,47.3,Male,Central,Doctorate
+23,119785,84,159.5,92.2,Other,Central,Postgraduate
+62,95629,23,165.9,52.5,Other,North,Graduate
+49,140993,45,166.6,73.3,Male,North,Doctorate
+69,72603,52,154.7,53.5,Other,North,Postgraduate
+47,146944,80,177.7,61.2,Female,Central,Graduate
+64,132726,50,156.3,57.4,Other,South,Graduate
+52,101974,8,174.7,60.9,Male,North,Postgraduate
+57,125947,85,169.3,61.9,Male,West,Postgraduate
+69,46399,1,158.5,61.8,Female,Central,Doctorate
+33,148177,8,182.8,82.5,Male,East,Graduate
+30,105382,29,153.1,53.4,Male,East,High School
+67,101244,96,174.2,73.3,Female,West,Postgraduate
+59,129575,5,175.0,88.3,Other,South,Graduate
+47,135520,86,158.3,62.3,Female,North,Graduate
+36,130904,47,178.9,59.2,Other,Central,Doctorate
+34,96534,34,162.5,66.5,Female,North,High School
+36,75106,65,167.9,87.7,Other,Central,Doctorate
+45,132599,55,167.6,72.9,Female,East,High School
+43,50678,90,163.7,62.0,Other,North,High School
+54,96218,43,173.1,77.3,Female,West,Postgraduate
+43,83230,74,172.9,53.5,Other,South,Graduate
+40,134684,30,147.5,80.2,Female,West,Graduate
+26,94055,82,178.0,76.1,Male,South,Graduate
+29,76373,17,148.4,65.4,Other,North,High School
+18,51480,26,175.3,57.4,Female,North,Graduate
+18,105230,8,176.3,56.7,Other,South,Postgraduate
+64,88836,47,154.1,78.0,Other,East,High School
+51,92258,76,160.9,88.4,Female,Central,High School
+49,59986,91,153.9,60.4,Other,West,High School
+65,44160,72,162.9,76.9,Female,West,High School
+42,105595,89,161.9,38.7,Male,West,Postgraduate
+57,121358,46,172.8,61.2,Other,North,Graduate
+62,99111,68,178.1,69.5,Male,West,Postgraduate
+18,84929,33,179.0,56.4,Other,Central,Graduate
+33,93506,1,159.4,56.0,Other,Central,Postgraduate
+56,54911,19,162.9,60.0,Other,South,Doctorate
+22,107127,31,148.2,74.4,Female,North,Doctorate
+39,51821,80,156.9,67.2,Male,Central,Doctorate
+46,95039,14,174.6,36.4,Other,East,Doctorate
+20,80535,53,181.2,38.2,Female,North,High School
+29,133453,48,152.7,60.9,Other,North,High School
+43,104458,69,159.1,76.9,Female,Central,Postgraduate
+33,32175,90,164.7,28.8,Other,East,Postgraduate
+68,139235,62,167.8,62.5,Male,South,Doctorate
+54,74771,92,156.9,62.1,Male,Central,Graduate
+39,126660,66,169.2,90.8,Other,East,Doctorate
+46,147157,64,160.3,64.2,Female,North,Postgraduate
+31,141300,70,164.9,75.7,Other,East,Doctorate
+45,106925,63,170.5,72.1,Female,North,Postgraduate
+22,133374,73,165.1,38.0,Other,Central,Doctorate
+64,86358,33,160.6,81.5,Female,Central,Graduate
+66,37327,41,163.9,73.2,Male,West,Doctorate
+47,67057,89,164.1,77.6,Other,West,Graduate
+63,26150,48,161.3,128.9,Male,West,Graduate
+69,24425,13,162.4,38.7,Male,Central,Postgraduate
+22,143654,73,181.0,95.9,Other,South,Graduate
+29,36032,77,170.6,65.7,Other,Central,High School
+33,22198,31,162.0,74.3,Female,East,High School
+43,80500,75,172.0,69.3,Female,Central,High School
+43,73394,68,161.7,63.6,Male,Central,Postgraduate
+65,40079,98,176.7,61.5,Female,North,High School
+38,56220,4,168.7,74.9,Female,North,Postgraduate
+56,61874,19,163.9,47.2,Other,North,Postgraduate
+53,33859,70,169.5,81.3,Female,Central,High School
+50,70460,98,149.3,63.8,Male,South,Graduate
+47,51419,82,153.7,53.0,Female,East,Doctorate
+54,138865,13,153.1,63.2,Male,East,Postgraduate
+40,28705,23,166.4,88.9,Other,South,High School
+27,62880,83,182.3,62.0,Male,South,Postgraduate
+22,149838,75,187.3,75.4,Female,East,Graduate
+53,43236,1,171.4,59.0,Other,West,Graduate
+51,107955,88,170.0,81.4,Female,North,High School
+69,105514,54,147.0,80.3,Other,North,Postgraduate
+48,123145,71,159.6,97.7,Other,East,Doctorate
+27,35358,89,157.1,67.4,Female,South,Doctorate
+36,119713,85,158.8,80.0,Female,West,Postgraduate
+49,114914,15,163.3,71.5,Other,East,Postgraduate
+18,122870,65,160.3,89.4,Other,North,Postgraduate
+22,96918,76,145.2,59.2,Female,Central,High School
+62,139179,71,172.5,81.2,Male,South,Graduate
+21,136243,15,154.3,67.1,Female,Central,Doctorate
+33,34596,21,167.4,69.0,Other,East,High School
+41,53572,19,185.7,71.4,Female,North,Postgraduate
+33,98757,60,155.8,73.8,Male,West,Postgraduate
+19,21279,93,139.7,68.3,Female,Central,Graduate
+66,83197,89,162.1,73.2,Other,West,Postgraduate
+45,131496,33,176.0,93.7,Female,North,High School
+49,82516,49,184.6,84.8,Other,Central,High School
+44,27083,96,152.7,83.0,Other,West,Graduate
+37,140674,35,170.0,63.2,Female,West,High School
+41,140307,44,160.3,56.7,Other,Central,Doctorate
+29,146457,90,163.9,84.3,Other,North,High School
+67,129397,11,191.4,83.1,Male,West,High School
+52,37771,99,150.0,92.1,Male,East,High School
+50,49975,72,167.5,60.9,Male,Central,Doctorate
+50,65648,78,169.7,66.6,Male,South,Postgraduate
+68,145641,74,175.9,45.4,Other,South,High School
+60,68285,66,166.0,64.1,Female,North,Graduate
+54,39063,46,168.1,84.9,Other,East,Doctorate
+29,87642,9,161.1,63.0,Other,West,Graduate
+20,110093,3,167.7,79.6,Other,South,High School
+18,134390,85,161.6,67.1,Female,North,Graduate
+50,106143,26,171.2,74.9,Male,East,High School
+57,57599,72,161.3,52.8,Other,East,Doctorate
+27,71920,48,168.8,71.3,Other,North,Graduate
+60,48529,66,164.7,25.1,Male,North,Graduate
+61,55954,70,176.3,67.2,Other,West,High School
+46,47856,28,164.5,45.5,Female,North,High School
+30,22573,93,147.3,88.1,Other,West,Postgraduate
+29,98344,26,177.6,81.7,Other,West,High School
+48,55367,25,155.9,77.0,Male,Central,High School
+63,122337,12,158.5,92.8,Other,East,Postgraduate
+19,126732,5,159.0,55.8,Other,East,High School
+68,119608,98,178.7,96.2,Female,East,High School
+67,80774,48,143.6,84.0,Male,Central,Postgraduate
+52,43752,37,196.4,66.5,Male,West,Doctorate
+40,75029,79,175.6,87.0,Female,West,Doctorate
+34,37685,44,167.2,53.4,Other,North,High School
+43,71693,15,164.5,57.6,Male,Central,High School
+25,136739,43,167.9,60.9,Male,North,Postgraduate
+46,75961,48,170.2,62.1,Other,Central,Postgraduate
+43,126937,87,171.5,54.2,Other,North,Doctorate
+27,144956,70,170.6,88.3,Male,South,Graduate
+43,96908,46,165.9,66.1,Other,East,High School
+51,145537,43,163.0,75.3,Male,East,Graduate
+68,146678,21,163.5,61.4,Other,West,Graduate
+58,94532,23,163.1,42.7,Other,South,Postgraduate
+24,101994,80,176.3,74.1,Female,East,High School
+21,76133,47,170.9,41.3,Other,West,High School
+67,117425,15,135.6,69.0,Female,South,Postgraduate
+62,145055,25,171.6,49.5,Other,East,Graduate
+28,81268,36,166.9,99.8,Male,North,Postgraduate
+46,112201,75,164.8,83.7,Male,Central,Doctorate
+53,58243,51,161.1,71.6,Other,South,High School
+42,77384,15,176.2,89.0,Other,West,Doctorate
+38,51653,68,174.5,57.3,Male,South,Postgraduate
+53,46657,21,157.3,78.2,Other,West,High School
+27,59952,13,169.1,73.0,Female,South,Doctorate
+54,42180,86,155.3,74.0,Female,West,Doctorate
+26,117432,19,151.2,89.1,Female,East,Graduate
+41,141829,34,158.7,81.0,Female,North,High School
+52,148377,78,173.6,74.3,Female,East,Doctorate
+66,98411,68,174.5,45.2,Other,North,Doctorate
+52,21622,52,170.1,55.6,Other,East,Graduate
+65,68756,27,172.3,68.2,Female,East,Doctorate
+53,60809,29,170.2,71.4,Other,South,Doctorate
+35,36725,28,158.6,53.0,Other,Central,Doctorate
+66,81396,35,169.3,106.2,Female,West,Graduate
+56,71226,8,173.0,92.7,Other,West,Doctorate
+49,126296,16,172.5,79.0,Other,West,Doctorate
+41,101182,36,176.9,71.1,Other,North,High School
+40,102565,30,172.1,66.8,Female,West,High School
+49,49402,18,168.5,55.7,Other,West,Graduate
+54,24263,2,175.7,71.2,Male,South,Postgraduate
+29,143489,49,164.7,73.9,Male,East,High School
+66,116523,77,156.2,51.4,Female,West,Graduate
+30,66828,4,163.4,75.0,Male,Central,Doctorate
+40,140824,90,157.6,67.7,Female,West,Doctorate
+42,67924,89,158.2,41.4,Male,North,Graduate
+52,94182,94,163.6,57.1,Male,North,Doctorate
+58,113065,75,157.1,63.8,Male,North,Doctorate
+47,79052,7,161.9,98.3,Female,West,Postgraduate
+34,31664,95,146.1,78.3,Female,South,Doctorate
+66,55737,74,167.1,50.0,Other,Central,High School
+37,121332,39,165.0,77.3,Female,West,Doctorate
+65,109563,13,156.8,46.8,Male,South,Graduate
+42,49373,31,171.6,86.2,Male,South,Postgraduate
+39,137369,71,174.4,62.9,Female,West,Doctorate
+30,56397,63,148.9,68.6,Female,West,Graduate
+36,148575,56,157.4,89.9,Female,South,High School
+66,106145,42,157.3,50.7,Other,South,Doctorate
+53,121371,61,155.6,49.0,Male,South,Postgraduate
+29,58709,42,173.3,61.2,Other,West,Doctorate
+58,136074,56,163.1,85.6,Other,South,Graduate
+36,81120,36,162.4,47.2,Male,North,Postgraduate
+29,39250,84,145.0,27.5,Male,West,Doctorate
+26,41172,68,171.4,63.2,Female,North,High School
+24,31555,7,152.6,78.3,Female,East,Postgraduate
+45,107410,54,165.6,88.0,Other,West,High School
+31,98617,1,167.8,63.1,Female,East,Graduate
+48,73276,44,178.6,63.8,Female,South,Doctorate
+69,77492,45,151.9,87.3,Male,South,High School
+36,73002,47,134.8,42.0,Male,Central,Graduate
+64,140103,13,166.8,64.2,Female,South,Doctorate
+33,144938,22,183.0,72.9,Male,East,Graduate
+22,109599,21,177.4,76.7,Female,South,High School
+52,92355,86,167.1,62.4,Male,West,Graduate
+29,111248,92,160.1,70.5,Male,South,Postgraduate
+42,44762,9,173.1,32.7,Male,Central,Doctorate
+69,31046,26,155.3,60.1,Male,South,Graduate
+38,116999,9,169.8,76.8,Female,East,High School
+53,144130,15,170.1,55.3,Other,East,Doctorate
+40,136021,10,175.6,70.9,Male,South,Postgraduate
+33,48769,88,192.6,76.7,Female,East,Doctorate
+56,73302,42,168.9,64.9,Female,East,Postgraduate
+62,43150,72,159.9,72.6,Male,Central,Doctorate
+59,88247,24,164.7,55.6,Other,West,Graduate
+56,24853,80,147.3,66.9,Male,Central,Graduate
+31,114613,49,158.1,79.2,Female,North,High School
+48,140900,26,160.9,72.4,Other,Central,Postgraduate
+22,109399,91,159.8,61.2,Female,South,High School
+52,41792,37,166.5,73.4,Male,West,Graduate
+40,79129,68,156.8,80.7,Other,South,Postgraduate
+46,126019,50,176.2,39.3,Female,North,High School
+60,94478,24,165.0,87.4,Female,West,High School
+28,133811,19,164.9,65.0,Female,East,High School
+35,134130,60,161.7,76.4,Male,Central,High School
+64,87298,39,166.6,88.0,Other,South,High School
+29,51987,74,173.3,49.4,Male,North,Postgraduate
+26,35850,89,156.3,59.4,Male,East,High School
+27,32112,18,158.4,65.7,Male,Central,Postgraduate
+61,141789,19,162.0,58.2,Other,East,High School
+34,44058,36,151.5,96.0,Male,Central,Graduate
+55,65420,74,156.8,57.1,Male,West,Graduate
+24,58890,97,160.2,61.7,Male,East,High School
+63,86017,55,173.7,73.1,Male,East,Doctorate
+30,67304,69,167.6,52.0,Female,East,Graduate
+57,52921,47,166.9,64.1,Male,West,Postgraduate
+59,125921,49,173.5,74.8,Female,North,High School
+26,21524,99,163.6,65.0,Male,Central,Postgraduate
+67,120424,98,168.9,68.6,Other,East,Doctorate
+44,35048,33,164.0,62.1,Female,West,High School
+19,55111,21,167.7,47.3,Female,North,Graduate
+22,57904,81,159.2,74.8,Female,Central,Postgraduate
+46,74912,22,140.6,96.3,Female,West,Graduate
+54,54008,48,163.7,70.3,Other,Central,Graduate
+55,20060,37,179.2,73.4,Male,East,High School
+36,94666,15,174.3,80.4,Female,North,Postgraduate
+25,103559,35,174.7,51.0,Other,West,Doctorate
+65,75337,92,177.4,95.5,Female,North,Graduate
+62,130616,71,165.9,73.0,Male,East,High School
+18,33350,32,167.0,94.5,Female,North,High School
+39,44354,11,158.8,59.0,Other,North,Doctorate
+69,65186,10,161.8,97.3,Male,South,High School
+34,48145,73,171.2,81.6,Other,North,Graduate
+24,54020,78,177.0,78.3,Male,Central,High School
+42,106123,77,163.6,73.5,Male,West,Postgraduate
+62,126667,57,160.5,66.3,Male,South,Postgraduate
+21,95186,25,165.0,88.0,Female,West,Graduate
+53,105469,2,171.0,72.1,Other,West,Postgraduate
+23,40581,64,150.6,40.5,Other,East,Doctorate
+48,108929,35,142.0,53.2,Other,East,High School
+36,43051,7,159.5,67.2,Male,South,Graduate
+61,71474,85,152.8,74.6,Female,East,Doctorate
+56,111748,18,159.9,69.2,Male,East,High School
+44,145995,67,163.5,88.3,Other,East,Doctorate
+27,134618,42,160.5,40.7,Female,West,Graduate
+43,89626,39,179.5,72.2,Female,South,Graduate
+36,26960,41,168.3,42.7,Female,West,Doctorate
+56,55772,75,168.0,81.4,Other,Central,High School
+20,41520,24,171.2,68.6,Female,West,Postgraduate
+62,69481,60,153.6,76.3,Female,Central,Postgraduate
+30,56408,46,175.4,57.0,Male,North,Doctorate
+67,114006,19,164.2,89.2,Male,North,Graduate
+45,148496,68,171.7,85.6,Female,Central,High School
+37,77134,90,154.3,78.8,Female,Central,High School
+45,40491,42,149.5,68.1,Male,West,Graduate
+25,21341,32,173.2,78.7,Male,Central,Postgraduate
+58,64623,39,168.8,59.4,Male,South,High School
+56,110327,36,156.0,82.8,Other,North,Doctorate
+18,20338,97,156.3,94.7,Other,North,Postgraduate
+20,91431,36,176.3,86.1,Male,Central,Doctorate
+30,32254,3,153.1,59.1,Female,East,Postgraduate
+45,71860,73,181.4,75.4,Male,East,Graduate
+66,31344,8,156.0,50.6,Other,Central,Doctorate
+42,21750,97,171.4,78.6,Female,South,Doctorate
+50,74756,70,161.7,76.8,Other,East,Graduate
+55,87957,41,171.0,42.0,Female,Central,Doctorate
+23,125423,68,159.6,52.6,Other,South,Postgraduate
+61,78053,13,163.4,65.8,Female,South,High School
+62,90855,49,165.4,65.5,Female,West,High School
+49,35896,60,155.0,51.9,Female,South,Graduate
+62,75761,2,172.4,75.8,Female,East,Postgraduate
+64,82552,60,159.9,73.8,Other,East,Doctorate
+38,140075,5,162.7,67.1,Other,Central,Doctorate
+33,97454,44,155.1,58.7,Female,Central,High School
+38,146522,27,139.4,85.7,Female,South,Doctorate
+28,138681,32,163.1,94.8,Other,North,High School
+54,110600,21,189.1,62.7,Female,West,Graduate
+53,142732,8,172.8,60.8,Female,North,Doctorate
+52,132153,72,164.8,77.4,Female,South,Postgraduate
+36,142926,50,162.4,64.6,Male,South,Doctorate
+37,47935,67,165.2,67.9,Female,North,High School
+35,57641,44,170.5,81.1,Male,West,Graduate
+64,49711,58,153.2,41.4,Female,North,High School
+58,90342,3,176.1,89.8,Other,Central,Doctorate
+66,126896,86,172.2,71.1,Male,East,High School
+31,32182,70,172.2,63.8,Male,Central,High School
+32,107833,2,169.4,68.7,Female,East,Graduate
+48,76276,87,165.2,69.4,Female,South,Postgraduate
+18,39541,44,171.7,44.0,Male,West,Doctorate
+20,114457,2,170.9,92.4,Other,North,Graduate
+33,102310,81,161.5,70.6,Other,West,Postgraduate
+40,64813,35,159.3,76.6,Female,North,High School
+28,57198,98,166.0,84.3,Other,Central,Postgraduate
+29,28820,87,180.5,54.7,Other,Central,High School
+27,44070,30,152.6,77.1,Female,North,High School
+49,89768,8,150.3,66.0,Other,West,Graduate
+33,31122,22,166.6,82.7,Female,North,High School
+25,100559,44,165.5,38.1,Male,South,Graduate
+55,93543,58,166.7,68.5,Female,Central,Postgraduate
+29,103441,36,167.4,61.0,Male,South,Postgraduate
+41,61786,69,162.8,76.5,Male,Central,High School
+45,114934,77,179.9,77.1,Other,Central,Graduate
+25,119804,93,149.0,59.4,Other,East,High School
+45,26737,31,156.7,59.3,Other,South,Graduate
+53,56062,47,164.0,68.3,Female,South,Graduate
+43,74237,55,148.6,56.6,Other,East,Graduate
+25,71571,80,163.2,82.6,Male,West,Postgraduate
+67,45510,62,181.6,64.5,Other,South,Graduate
+45,39426,30,165.2,26.4,Other,North,Postgraduate
+45,57265,55,167.3,64.4,Female,East,Graduate
+54,37850,16,152.4,54.4,Female,South,Postgraduate
+58,138249,12,158.8,45.5,Male,West,Doctorate
+53,86150,17,161.2,51.4,Female,South,Postgraduate
+44,107312,16,161.8,71.6,Other,Central,Postgraduate
+34,109613,12,177.8,89.9,Female,North,High School
+26,94910,8,170.6,74.7,Male,East,Graduate
+50,72375,84,153.9,60.9,Other,Central,Doctorate
+37,141826,3,167.5,76.8,Male,West,High School
+30,55435,16,170.0,63.1,Female,Central,Graduate
+45,116443,30,176.4,59.6,Female,Central,Doctorate
+65,77132,23,180.8,52.7,Male,West,Doctorate
+46,98945,92,154.8,43.7,Other,Central,Doctorate
+30,102050,5,156.9,64.2,Female,East,Graduate
+63,149828,84,152.4,72.4,Female,South,Doctorate
+52,115402,65,162.7,68.6,Other,Central,Doctorate
+23,22983,30,169.7,63.8,Female,East,High School
+35,117241,21,174.9,55.8,Male,South,Postgraduate
+68,40662,84,164.2,79.1,Female,South,Graduate
+22,43510,70,161.8,50.2,Female,Central,Postgraduate
+64,98187,22,166.5,81.6,Other,East,High School
+42,60998,82,156.6,55.0,Male,Central,Postgraduate
+19,76846,72,185.9,58.7,Other,West,Doctorate
+27,114071,32,148.9,48.0,Female,South,Doctorate
+47,26640,33,166.8,62.5,Female,Central,Graduate
+67,64547,16,185.2,84.6,Other,South,Graduate
+62,74620,76,165.1,77.7,Other,East,Graduate
+22,35317,38,163.1,84.7,Other,North,High School
+50,135608,98,161.4,77.8,Male,Central,Graduate
+18,27564,14,163.2,53.4,Female,Central,High School
+35,47345,36,178.7,65.0,Other,South,Doctorate
+49,133824,97,142.9,58.3,Female,East,Postgraduate
+64,114223,23,180.3,90.0,Male,West,Doctorate
+66,143372,66,150.8,52.0,Male,East,Doctorate
+28,99273,85,162.3,83.4,Male,Central,Doctorate
+38,94859,2,160.7,83.4,Male,West,Graduate
+43,100765,91,170.9,97.4,Female,East,Graduate
+42,130017,73,149.0,63.9,Male,North,Graduate
+39,94038,65,169.6,80.7,Male,South,Postgraduate
+44,143618,75,185.2,104.2,Other,East,Graduate
+66,72393,67,151.4,60.7,Male,East,High School
+30,86081,52,166.9,47.0,Other,North,Doctorate
+50,145341,62,158.4,41.8,Male,Central,Postgraduate
+51,122650,23,169.3,80.7,Male,South,Postgraduate
+58,49430,26,165.2,41.8,Other,East,Postgraduate
+52,95532,68,158.6,64.4,Male,West,Postgraduate
+18,47788,82,169.9,76.6,Female,East,Postgraduate
+38,115505,55,183.0,72.8,Female,South,High School
+65,68543,6,163.1,76.4,Male,East,Doctorate
+23,33919,35,172.2,73.3,Female,North,Postgraduate
+45,89346,22,152.1,89.2,Other,East,Doctorate
+34,116122,43,155.4,55.7,Male,East,Graduate
+22,59974,15,169.7,59.8,Male,West,Postgraduate
+48,127309,86,179.8,58.4,Other,North,Postgraduate
+22,36371,60,168.6,82.5,Other,North,Doctorate
+55,65084,12,161.9,83.5,Other,East,Postgraduate
+20,49629,49,165.0,76.8,Male,West,Postgraduate
+40,71184,42,152.5,87.8,Other,East,Postgraduate
+54,81916,38,171.0,52.3,Other,East,High School
+54,147293,82,173.8,95.0,Female,South,High School
+27,93972,45,160.5,92.8,Female,South,Postgraduate
+27,82187,35,160.3,81.0,Male,West,High School
+36,32984,30,167.7,96.7,Female,Central,Graduate
+34,53039,88,160.6,45.2,Female,South,Postgraduate
+38,105431,30,164.3,62.1,Other,Central,Graduate
+31,103691,78,186.0,59.0,Other,North,Doctorate
+26,78606,6,162.5,80.8,Female,South,Graduate
+63,30616,67,161.4,54.2,Female,South,Doctorate
+18,122665,80,158.5,81.4,Female,West,Postgraduate
+68,125373,7,172.4,90.6,Male,Central,Doctorate
+62,70072,52,163.2,80.4,Male,South,Doctorate
+30,44574,14,158.5,74.3,Male,South,Graduate
+21,23430,73,178.2,55.2,Female,West,Graduate
+18,139123,15,179.2,57.3,Female,West,Graduate
+66,32676,21,159.0,88.7,Male,Central,Postgraduate
+57,30816,35,146.3,81.7,Male,North,Postgraduate
+49,52733,66,175.1,69.4,Female,North,Graduate
+51,105680,91,158.2,63.7,Other,East,Postgraduate
+45,22050,2,172.9,39.6,Male,South,Postgraduate
+48,129996,35,145.3,53.9,Female,Central,Doctorate
+25,53933,82,173.9,98.7,Female,South,Doctorate
+56,44951,78,152.9,50.8,Other,Central,Graduate
+43,52413,20,172.3,72.8,Female,Central,Postgraduate
+51,54801,82,165.1,85.1,Female,Central,Doctorate
+20,75619,10,155.5,51.2,Male,South,High School
+67,52913,25,160.9,72.8,Male,West,Postgraduate
+29,132573,66,171.9,84.1,Other,South,High School
+18,139076,25,166.1,70.2,Other,Central,Graduate
+61,60600,54,170.8,113.0,Female,East,Postgraduate
+22,77775,33,184.8,45.0,Male,North,Graduate
+47,110816,36,149.4,85.9,Other,Central,Graduate
+47,149972,95,181.2,67.4,Other,East,Graduate
+34,110093,14,166.0,81.6,Other,West,Graduate
+65,132590,65,156.0,76.6,Female,Central,Graduate
+64,55400,80,151.7,59.0,Male,East,Postgraduate
+40,24494,54,163.1,73.4,Other,Central,High School
+32,100688,52,174.2,42.1,Male,South,Postgraduate
+54,142744,3,163.7,79.0,Other,East,Postgraduate
+38,109431,99,180.1,74.5,Other,South,Postgraduate
+31,94691,41,150.5,79.6,Male,South,Doctorate
+19,117419,6,164.9,85.9,Male,East,Doctorate
+28,128730,25,152.5,75.5,Male,North,Postgraduate
+68,63001,13,168.6,72.2,Female,East,High School
+56,87364,98,173.9,56.8,Other,North,Postgraduate
+55,144988,8,160.8,59.3,Female,Central,Graduate
+51,65028,21,139.0,87.8,Male,Central,Doctorate
+55,127434,98,167.0,91.5,Other,East,Doctorate
+67,117659,68,169.4,66.4,Female,Central,Postgraduate
+51,57573,25,169.0,70.7,Other,West,Postgraduate
+35,20806,79,177.4,56.4,Female,South,High School
+47,144343,68,154.3,87.6,Male,South,High School
+32,76638,45,171.8,80.0,Female,North,Graduate
+44,148301,60,176.9,99.1,Other,Central,Postgraduate
+68,146295,12,147.2,56.8,Other,North,Postgraduate
+51,126506,32,168.2,64.3,Other,South,Postgraduate
+69,49757,96,160.0,73.5,Other,South,Doctorate
+55,54636,92,164.2,79.7,Male,Central,Graduate
+50,100097,13,168.5,66.8,Female,West,High School
+41,68280,31,160.1,56.9,Male,West,Doctorate
+32,44262,78,158.2,83.2,Male,Central,Doctorate
+47,100435,20,165.3,80.8,Male,Central,Doctorate
+59,82211,18,154.1,56.3,Other,North,Doctorate
+68,74842,93,154.1,90.3,Other,Central,Graduate
+34,148583,60,171.8,87.6,Other,West,Postgraduate
+22,76979,63,153.5,72.0,Female,Central,High School
+46,134524,6,171.7,71.2,Other,North,High School
+21,101470,32,169.6,78.3,Female,North,Doctorate
+27,58197,93,147.7,57.1,Other,North,Doctorate
+34,61844,43,158.2,70.5,Other,North,Graduate
+27,84754,2,176.9,37.7,Male,East,Doctorate
+34,121868,60,155.2,83.1,Male,Central,High School
+37,54157,23,160.4,46.6,Male,South,High School
+41,97129,83,169.6,92.6,Female,Central,Postgraduate
+22,60042,31,172.8,65.0,Female,East,Postgraduate
+51,81665,5,162.5,66.8,Other,North,High School
+23,135512,83,159.0,60.6,Female,East,High School
+19,136953,34,179.2,65.7,Other,West,Graduate
+30,102856,10,182.4,91.3,Female,West,Graduate
+60,47376,89,174.8,32.7,Female,Central,High School
+60,129049,2,165.9,89.2,Female,Central,Doctorate
+65,75554,11,156.9,75.1,Male,South,Postgraduate
+28,34199,50,156.7,51.9,Female,South,High School
+68,138533,31,170.2,53.9,Male,West,Doctorate
+64,101412,56,169.2,95.1,Male,North,High School
+40,70948,79,179.0,55.8,Female,East,Postgraduate
+33,93781,73,171.5,52.7,Other,South,Postgraduate
+48,92750,87,150.0,87.1,Other,South,Graduate
+28,86262,83,175.5,75.1,Other,North,Graduate
+33,137424,9,155.0,55.9,Female,North,Graduate
+25,66600,99,161.2,73.2,Other,Central,Graduate
+21,96898,21,167.5,54.6,Male,East,Postgraduate
+57,82483,73,185.0,86.5,Other,North,Doctorate
+21,38297,28,196.1,85.9,Female,South,Doctorate
+42,50448,62,171.1,78.0,Other,South,Doctorate
+20,46172,7,163.2,75.4,Male,West,High School
+49,62874,80,170.3,96.4,Female,North,Graduate
+20,27657,16,173.9,70.0,Other,Central,Graduate
+44,104386,97,161.8,52.3,Female,East,Postgraduate
+46,145617,4,183.0,76.7,Female,Central,Postgraduate
+49,45425,4,167.3,101.3,Female,South,High School
+67,46685,40,170.0,54.8,Other,Central,High School
+68,142000,17,171.7,64.6,Female,South,Doctorate
+36,132855,52,169.2,76.2,Other,South,Postgraduate
+38,44578,93,173.4,69.2,Male,South,Graduate
+22,48831,52,158.8,55.3,Other,South,Doctorate
+35,27906,36,159.4,86.8,Male,South,Graduate
+45,81413,38,154.0,104.8,Other,West,Doctorate
+59,74028,50,169.4,72.9,Female,Central,Graduate
+39,27287,63,172.8,56.4,Other,West,High School
+38,53660,63,169.6,46.8,Female,West,Doctorate
+23,95758,62,181.7,73.9,Male,North,Graduate
+18,80504,99,164.9,86.6,Other,North,Graduate
+22,79720,7,171.7,77.1,Female,North,Postgraduate
+58,122979,27,154.1,70.0,Male,East,Doctorate
+29,54701,92,161.1,61.2,Male,North,Graduate
+43,103300,86,172.0,53.6,Other,Central,Postgraduate
+63,130177,14,173.5,82.5,Male,West,Graduate
+51,37674,71,162.1,83.7,Female,Central,Doctorate
+66,103560,86,164.3,46.8,Male,North,High School
+31,131543,5,149.8,93.8,Male,East,Doctorate
+43,43874,55,161.4,78.6,Female,East,Doctorate
+62,63642,2,173.9,91.0,Male,West,Graduate
+44,143867,62,170.8,49.9,Male,Central,Graduate
+26,117820,91,170.0,49.5,Male,South,Doctorate
+43,85160,21,165.5,67.8,Male,Central,Postgraduate
+64,37602,79,165.1,77.5,Female,North,Postgraduate
+39,123320,21,158.4,96.9,Male,South,Postgraduate
+64,108801,10,172.0,80.6,Female,East,Graduate
+47,45931,87,169.2,66.4,Male,West,Graduate
+60,114377,58,169.9,54.6,Male,West,Doctorate
+65,49192,39,159.7,88.5,Male,East,High School
+34,66542,5,143.5,55.5,Male,North,Graduate
+43,147015,65,176.0,94.4,Female,East,Doctorate
+53,62520,13,160.2,65.7,Female,North,Doctorate
+18,84772,85,156.4,93.9,Female,South,High School
+25,78762,90,171.9,80.2,Other,East,Postgraduate
+66,70106,85,161.1,67.9,Male,North,Doctorate
+52,101121,53,175.6,62.2,Male,South,Doctorate
+69,45559,82,171.2,64.9,Female,East,Doctorate
+32,125595,45,171.8,76.4,Other,West,Postgraduate
+64,53742,32,151.3,71.2,Male,East,Postgraduate
+39,89669,36,177.1,61.1,Female,Central,High School
+31,100199,81,167.6,67.5,Male,East,Graduate
+43,41754,99,161.3,71.2,Male,Central,Postgraduate
+45,23972,60,166.4,38.1,Female,South,Graduate
+40,90831,11,147.2,76.9,Female,East,Graduate
+31,132217,63,169.1,55.3,Male,South,Postgraduate
+41,61873,21,154.7,52.7,Male,South,Doctorate
+19,114661,52,151.5,44.7,Female,North,High School
+62,126532,55,149.8,43.1,Male,South,Graduate
+43,146267,26,176.1,49.7,Male,South,Doctorate
+31,29903,68,158.7,59.4,Female,East,Postgraduate
+68,23020,34,180.3,99.3,Male,East,Graduate
+24,61755,52,159.6,62.1,Male,West,Graduate
+20,105956,82,147.9,72.7,Other,North,Graduate
+64,106988,99,153.8,76.0,Female,South,Doctorate
+40,65648,93,177.4,72.0,Other,North,Doctorate
+63,123537,52,163.4,68.8,Other,Central,Doctorate
+60,145991,29,159.5,52.1,Other,South,Graduate
+64,29516,38,166.6,91.8,Male,North,Graduate
+62,132863,42,170.0,97.1,Male,West,High School
+35,135005,21,176.2,44.8,Other,West,High School
+55,22396,42,179.5,54.6,Other,South,Doctorate

@@ -1,0 +1,501 @@
+Customer ID,Name,Age,Gender,Country,Account Balance
+C100,Alexa Hernandez,59,Female,Belize,7167.88
+C101,Richard Higgins,20,Female,Panama,5659.62
+C102,Marc Williams,68,Male,Svalbard & Jan Mayen Islands,4056.63
+C103,William Roberts,46,Male,Greece,5355.52
+C104,Joshua Carter,32,Male,Gambia,943.81
+C105,David Williams,55,Female,Tunisia,6690.21
+C106,Joseph Jones,45,Male,Romania,393.38
+C107,Gary Perry,54,Male,Slovenia,8903.94
+C108,Terry Wells,49,Female,Zambia,6852.98
+C109,Vanessa Cooper,47,Male,Gibraltar,8924.01
+C110,Michael Simmons,68,Male,Antigua and Barbuda,111.95
+C111,Nicholas Kline,64,Female,Belize,9378.47
+C112,Lori Bennett,47,Male,New Caledonia,9587.24
+C113,Margaret Jones,68,Female,American Samoa,7983.56
+C114,Paul Brown,51,Female,French Guiana,9921.53
+C115,James Stone,30,Male,Spain,3616.73
+C116,John Richards,50,Female,Brazil,8498.57
+C117,Jenny Richardson,59,Male,Chad,7729.68
+C118,Debbie Waters MD,34,Male,Rwanda,7233.22
+C119,Austin Boyer,20,Female,Falkland Islands (Malvinas),6370.81
+C120,Stephanie Hayes,26,Male,Cook Islands,3143.02
+C121,Barbara Sanders,69,Male,Malawi,5419.06
+C122,Andrew Gould,28,Female,Mexico,2818.29
+C123,Charles Gonzalez,66,Male,Guatemala,186.03
+C124,Joshua Hernandez,44,Male,Tonga,346.95
+C125,Victoria Hernandez MD,45,Male,Kiribati,1528.43
+C126,Sherry Simpson,19,Male,Benin,5186.22
+C127,Erica Jimenez,18,Female,Israel,2304.31
+C128,Mr. Dakota Lynch II,23,Female,Macao,3757.95
+C129,Victor Nolan,42,Male,Marshall Islands,645.56
+C130,Amanda Hernandez,52,Female,Switzerland,9120.85
+C131,Richard Kirby,33,Male,Ireland,8861.02
+C132,Michelle Roman,21,Male,British Virgin Islands,8983.04
+C133,Bradley Melton,64,Female,Belgium,3388.69
+C134,Danny Williams,55,Male,Namibia,7157.98
+C135,Ryan Rivera,61,Female,Kyrgyz Republic,4326.74
+C136,Charles Douglas,37,Female,Gibraltar,3086.76
+C137,Kathy Santana,42,Female,China,797.07
+C138,Laura Gregory,24,Male,French Polynesia,4276.26
+C139,Norma Mooney,38,Male,Dominican Republic,3944.36
+C140,Susan Harris,24,Female,Nigeria,1687.9
+C141,Linda Petersen,46,Female,Jordan,3567.05
+C142,Dr. James Willis,69,Male,Peru,1046.64
+C143,Rebecca Sandoval,24,Male,Qatar,8723.92
+C144,Christopher Hunter,20,Male,France,6709.17
+C145,Austin Heath,46,Male,Antigua and Barbuda,2007.91
+C146,Elizabeth Russell,46,Male,Angola,9189.11
+C147,Amy Davidson,56,Female,Syrian Arab Republic,5838.84
+C148,Dustin Greer,55,Male,Algeria,4613.39
+C149,Andrew Butler,23,Female,Northern Mariana Islands,6459.28
+C150,Scott Love DDS,63,Male,Tanzania,2614.85
+C151,William Jenkins,27,Male,Ethiopia,5555.68
+C152,Jasmine Williams,54,Male,Belarus,1405.84
+C153,Christian Johnson,31,Male,Trinidad and Tobago,2085.11
+C154,Lorraine Garcia,39,Female,Panama,5189.14
+C155,Hannah Reyes,49,Male,Germany,1065.18
+C156,Katherine Ibarra,35,Female,Ghana,8533.35
+C157,Julie Chen,53,Female,Mayotte,4015.88
+C158,Caleb Fleming,63,Female,Palau,2407.47
+C159,Rachel Martinez,69,Male,France,5895.78
+C160,Rebecca Stark,26,Female,Australia,7493.68
+C161,Melanie Patrick,43,Male,Slovenia,6128.99
+C162,Rachel Lopez,39,Male,Russian Federation,5832.21
+C163,Jill Sherman,63,Male,Egypt,1783.99
+C164,Richard Jones,55,Female,Thailand,6894.98
+C165,Timothy Tucker,40,Male,Tuvalu,9770.34
+C166,Theresa Estrada,34,Male,Puerto Rico,6125.07
+C167,Cindy Davis,43,Female,Malaysia,3350.95
+C168,Stacy Chan,64,Female,Burundi,8046.65
+C169,Jennifer Torres,55,Female,Eritrea,8380
+C170,Jeffery Knight,19,Male,Nauru,4211.27
+C171,Taylor Perry,23,Female,Azerbaijan,4214.52
+C172,Raymond Navarro,24,Male,Solomon Islands,9372.51
+C173,Jeremy Parks,30,Male,Iceland,7249.62
+C174,Thomas Rivers,44,Female,Italy,425.72
+C175,Angela Jones,28,Female,Fiji,4316.86
+C176,Allen Bailey,32,Male,Mozambique,1029.56
+C177,William Fuentes,26,Female,Czech Republic,9787.62
+C178,Steven Clark,25,Female,El Salvador,5794.6
+C179,Michael Mays,63,Female,Zambia,6472.41
+C180,Adam Wood,23,Female,Germany,3708.18
+C181,Larry Villarreal,65,Male,United States Minor Outlying Islands,6710.38
+C182,Brian Cooper,60,Female,Sri Lanka,5761.25
+C183,Beverly Levy,21,Female,Marshall Islands,7769.37
+C184,John Carter,28,Female,Liechtenstein,9011.01
+C185,Tina Fields,68,Male,Tuvalu,4102.63
+C186,Willie Garcia,45,Male,Kiribati,8963.92
+C187,Brooke Hurst,43,Female,Russian Federation,744.32
+C188,Regina Stewart,21,Female,British Virgin Islands,6886.23
+C189,Paul Carter,32,Female,Jamaica,2387.59
+C190,Angel Anderson,36,Female,Holy See (Vatican City State),5434.8
+C191,Blake Jones,23,Male,Chile,7753.05
+C192,Juan Yang,22,Female,Maldives,7491.18
+C193,Jay Walsh,35,Female,Austria,7242.16
+C194,Jeremy Wood,23,Female,Djibouti,4880.63
+C195,Amy Ortiz,48,Male,Romania,2020.83
+C196,Nicholas Flores,42,Male,Sri Lanka,2135.11
+C197,Edward Ruiz,21,Female,Lesotho,5401.14
+C198,Rebecca Hill,23,Male,Hungary,4434.36
+C199,Melissa Flynn,58,Male,Antarctica (the territory South of 60 deg S),9752.4
+C200,James Saunders,54,Female,Dominican Republic,3078.16
+C201,David Chavez,67,Female,Belgium,881.8
+C202,Brenda Ford,42,Male,Gambia,7296.09
+C203,Karen Harris,51,Female,Bolivia,9756.7
+C204,Michael Montgomery,36,Female,Sweden,7842.68
+C205,Edwin Mack,51,Female,Cocos (Keeling) Islands,2545.75
+C206,Kimberly Moore,32,Female,United Kingdom,461.95
+C207,Kaitlin Gregory,67,Female,Brunei Darussalam,4128.53
+C208,Crystal Gill,25,Male,Kazakhstan,8789.73
+C209,William Martinez,61,Female,American Samoa,4376.74
+C210,Amanda Scott,64,Male,Uganda,2912.45
+C211,Lauren Foster,66,Female,Sao Tome and Principe,9359.49
+C212,David Campbell,51,Female,Guyana,7745.43
+C213,Susan Larson,35,Female,Mali,6148.77
+C214,Ricky Torres,47,Male,Isle of Man,126.5
+C215,Joseph Wright,30,Male,British Virgin Islands,9321.9
+C216,Carla Perry,64,Female,Mali,6770.99
+C217,Joseph Berry,50,Male,Egypt,2322.22
+C218,Kim Jenkins,52,Female,Luxembourg,345.06
+C219,Jennifer Osborne,69,Male,Finland,173.94
+C220,Ebony Watson,41,Male,Ethiopia,9281.29
+C221,Brooke Terry,43,Female,Iraq,6962.21
+C222,Kevin Taylor,64,Female,Jersey,7080.96
+C223,Heather Kennedy,68,Female,Latvia,6001.04
+C224,John Neal,61,Male,Qatar,5418.63
+C225,Matthew Brown,59,Male,Vietnam,4610.23
+C226,Patrick Williams,64,Male,Vanuatu,6041.91
+C227,Allison Ruiz,18,Male,Azerbaijan,6575.41
+C228,Alexandra Rose,30,Female,Chad,3793.09
+C229,Sean Parks,27,Male,Russian Federation,6715.52
+C230,Maureen Smith,36,Male,Tuvalu,4623.16
+C231,Marc Key,22,Male,Timor-Leste,942.16
+C232,Melissa Acosta,25,Male,Mali,2408.42
+C233,Paul Roberts,21,Male,Guinea-Bissau,905.58
+C234,Joel Rivera,66,Male,Cook Islands,3287.97
+C235,Javier Prince,30,Female,Egypt,6152.14
+C236,Jermaine Fletcher,55,Male,Canada,3739.5
+C237,Beverly Lozano,63,Male,Cyprus,7289.65
+C238,Richard Price,66,Female,South Georgia and the South Sandwich Islands,6812.79
+C239,Jean Robinson,63,Male,Gabon,1532.44
+C240,Todd Willis,36,Female,Solomon Islands,1763.62
+C241,James Young,69,Male,Cameroon,737.91
+C242,Cody Brown,67,Female,Colombia,2716.89
+C243,Carrie Bishop,25,Female,Mexico,3548.73
+C244,Michele Hunt,44,Female,El Salvador,973.66
+C245,Shawn Gomez,67,Female,Mauritius,6062.07
+C246,Mark Black,64,Male,Anguilla,7172.32
+C247,Tina Spears,47,Male,Cocos (Keeling) Islands,1656.5
+C248,Lauren Henry,21,Male,Djibouti,3487.16
+C249,Cindy Adams,28,Male,Tonga,7299.77
+C250,Christopher Smith,38,Male,Swaziland,6666.85
+C251,Brenda Buchanan,60,Male,Saint Helena,8559.15
+C252,Tracy Sanders,19,Female,Israel,5590.57
+C253,Jody Morgan,38,Male,Uzbekistan,354.99
+C254,Stephen Norton,34,Female,Turks and Caicos Islands,667.47
+C255,Jesus Nguyen,60,Female,Romania,892.6
+C256,Andrew Wood,68,Female,Western Sahara,5219.66
+C257,Joseph Lopez,46,Male,Cayman Islands,7575.55
+C258,Michael Fitzgerald,44,Male,Ecuador,419.51
+C259,Scott Scott,41,Male,Senegal,4621.21
+C260,Micheal Williams,66,Female,Moldova,8265.5
+C261,Andrea Murray,20,Female,Brunei Darussalam,6719.2
+C262,Amber Lamb,56,Male,Turkmenistan,5504.58
+C263,Julia Wilson,27,Female,Syrian Arab Republic,5929.24
+C264,Brett Cannon,20,Female,Morocco,8975.15
+C265,Thomas Alexander,62,Male,Pitcairn Islands,5793.27
+C266,Jeffery Fischer,59,Male,Chile,4276.01
+C267,Amanda White,43,Female,Samoa,7059.22
+C268,Carl Pitts DVM,54,Male,Egypt,3636.35
+C269,Jeffrey Hawkins,44,Female,Mali,9731.83
+C270,Joshua Harris,22,Female,Singapore,8735.79
+C271,Jeremy Jacobs,59,Female,French Southern Territories,1650.87
+C272,Debbie Hall,28,Male,South Georgia and the South Sandwich Islands,6872.84
+C273,Richard Garcia,30,Male,Trinidad and Tobago,437.3
+C274,Danielle Mitchell,58,Female,Togo,8863.55
+C275,Mary Harmon,51,Female,South Africa,8464.05
+C276,Shannon Martinez,55,Female,Russian Federation,5150.27
+C277,Bailey Mclaughlin,57,Male,Saint Vincent and the Grenadines,1364.12
+C278,Michael Warner,50,Female,Angola,6252.58
+C279,Connie Decker,51,Male,Saint Helena,2469.44
+C280,Joseph Leonard,44,Male,Kuwait,6345.62
+C281,Mark Mitchell,53,Female,Somalia,6968.08
+C282,Robert Tran,43,Male,United Kingdom,1151.92
+C283,Kevin Johnson,68,Female,Tanzania,4821.76
+C284,James Daugherty,42,Male,Cook Islands,5897.37
+C285,Angela Hubbard,36,Male,Bahamas,2610.89
+C286,Patricia Hudson,38,Female,Isle of Man,2090
+C287,Cindy Oconnor,48,Male,Chad,6414.77
+C288,Olivia Gomez,46,Male,Hong Kong,7631.36
+C289,Lori Lester,26,Male,Macedonia,3655.2
+C290,Roy Fox,36,Male,Iceland,7118.09
+C291,Jesus Smith,43,Male,Croatia,5915.02
+C292,Matthew Guerrero,42,Female,Hungary,8114.97
+C293,Troy Castillo MD,57,Female,Marshall Islands,2120.31
+C294,Deanna Munoz,60,Male,Mali,7984.33
+C295,Samantha Floyd,46,Male,Lithuania,2737.44
+C296,Anthony Johnson,42,Female,Bosnia and Herzegovina,3052.82
+C297,Tonya Cooper,36,Female,Brunei Darussalam,9783.9
+C298,Nicholas Barrett,21,Male,Togo,555.53
+C299,Michael Torres,62,Female,Benin,1978.56
+C300,Joshua Oconnor,37,Female,Marshall Islands,5256.66
+C301,Alex Burton,63,Male,Algeria,3822.34
+C302,Andrew Perez,18,Female,United Arab Emirates,2496.79
+C303,Andrea Brown,28,Female,Sweden,6877.07
+C304,Jenny Stafford,21,Male,Uganda,6725.45
+C305,Jeffrey Howard,24,Female,Belgium,9641.04
+C306,Gary Hatfield,45,Female,Algeria,8798.14
+C307,Janet Ortiz,53,Male,San Marino,9974.62
+C308,Joseph Fitzgerald,24,Male,Ecuador,3692.59
+C309,Julie Williams,37,Female,Samoa,547.82
+C310,Jennifer Myers,52,Female,Indonesia,3320.44
+C311,Charles Melton,68,Female,Korea,5019.46
+C312,Morgan Hernandez,68,Female,Peru,1804.74
+C313,Ryan Hoover,56,Male,Falkland Islands (Malvinas),942.25
+C314,Alex Drake,38,Female,Isle of Man,4582.02
+C315,Richard Sutton,61,Male,Guatemala,9333.39
+C316,Blake Pennington,18,Male,Panama,7655.33
+C317,Lisa Ellis,54,Male,Indonesia,3183.71
+C318,Lance King,63,Female,Eritrea,8897.29
+C319,Morgan Johnson,59,Female,Saint Kitts and Nevis,7003.02
+C320,Amanda Davis,20,Male,Belarus,4687.11
+C321,Chris Young,51,Male,Uganda,2719.73
+C322,Nicolas Sullivan,30,Female,Serbia,5797.79
+C323,Johnathan Long,33,Male,Cayman Islands,2029.52
+C324,Steven Pierce,51,Male,Myanmar,7438.19
+C325,Patricia Duncan,41,Male,Ecuador,9375.59
+C326,Michael Bryant,30,Male,Saint Vincent and the Grenadines,6626.75
+C327,Jennifer Crawford,23,Male,Cote d'Ivoire,7277.44
+C328,Patrick Johnson,56,Male,Togo,1728.44
+C329,Lauren Parsons,19,Male,Aruba,7507.42
+C330,Michael Clark,28,Male,Senegal,5023.83
+C331,Gina Good,24,Female,Timor-Leste,965.09
+C332,Christine Knight,24,Female,Austria,3925.83
+C333,Warren Middleton,56,Male,Madagascar,7321.54
+C334,Michelle Maldonado,56,Female,Sudan,5824.28
+C335,Thomas Lam,29,Male,Bangladesh,3133.19
+C336,Paul Smith,68,Female,Puerto Rico,9888.62
+C337,Krystal Farley,39,Male,Kiribati,5782.92
+C338,Mario Morris,68,Female,Egypt,9455
+C339,Lindsay Archer,68,Female,Korea,5641.76
+C340,Charles Williams,69,Male,Russian Federation,5690.2
+C341,Timothy Fry,20,Female,Slovakia (Slovak Republic),606.59
+C342,Dr. Robert Osborne,30,Male,Ukraine,1130.38
+C343,Chelsea Dunn,47,Female,Senegal,6182.94
+C344,Travis Thompson,27,Female,Panama,7343.17
+C345,Matthew Moore,69,Male,Burkina Faso,2515.92
+C346,Jonathan Hogan,26,Female,Nepal,9643.36
+C347,Nicole Baker,23,Female,Nigeria,7438.26
+C348,Jeffrey Ewing,61,Female,Turkmenistan,2456.31
+C349,Theresa Medina,19,Male,Madagascar,6479.76
+C350,Wanda Lee,61,Female,French Guiana,3463.59
+C351,Rebecca Kirk,33,Male,American Samoa,7302.06
+C352,Brittney Guerrero,30,Male,Nepal,5887.47
+C353,Kristine Ward,65,Male,Cameroon,7590.87
+C354,Kristina Jenkins,30,Female,Guernsey,2589.49
+C355,Regina Perez,39,Female,Papua New Guinea,9329.72
+C356,Joseph Pugh,36,Female,Guinea-Bissau,9930.71
+C357,Lynn Burton,43,Male,Haiti,1728.87
+C358,Nicholas Wright PhD,31,Female,Switzerland,5177.76
+C359,Tony House,48,Female,French Southern Territories,8648.41
+C360,Jerome Manning,46,Female,Macao,3542.21
+C361,Jordan Roman,62,Female,Norway,2502.11
+C362,Tina Martin,59,Female,Portugal,7337.55
+C363,Tanya Walters,39,Female,El Salvador,9777.43
+C364,Dawn Macias,24,Male,Burkina Faso,5087.1
+C365,Lisa Davis,54,Female,Angola,3985.06
+C366,Adam King,66,Male,Lesotho,3980.14
+C367,Jasmine Rowe,58,Male,Sri Lanka,7965.61
+C368,Jean Beard,44,Female,Saint Martin,7090
+C369,John Gallegos,48,Female,Vietnam,3257.28
+C370,Michael Murphy,23,Female,Syrian Arab Republic,9748.43
+C371,John Boyd,33,Female,Timor-Leste,8926.65
+C372,Keith Reed,55,Female,Cook Islands,7039.19
+C373,Connor Rodriguez,55,Female,Netherlands,4463.69
+C374,Amanda Hebert,67,Male,Indonesia,2152.23
+C375,Theresa Edwards,49,Male,Guadeloupe,6683.15
+C376,Victoria Hubbard,50,Female,Lebanon,7563.51
+C377,Michael Larson,66,Male,Gabon,6080.37
+C378,Eric Brown,34,Female,Kazakhstan,5006.61
+C379,Cesar Castillo,50,Male,Burundi,1268.61
+C380,Pamela Williams,28,Female,Lebanon,7868.83
+C381,Amanda Peters,30,Female,Svalbard & Jan Mayen Islands,4966.76
+C382,Lynn Herring,47,Male,French Polynesia,8555.74
+C383,Kevin Miller,18,Male,Wallis and Futuna,1434.7
+C384,Robin Harris,47,Female,Sudan,9654.38
+C385,Michael King,44,Female,Reunion,4962.89
+C386,Timothy Lutz,57,Male,United States Minor Outlying Islands,816.27
+C387,Steven Tran,40,Female,Greenland,2873.13
+C388,Kevin May,37,Male,Guernsey,9035.54
+C389,Peter Meyers,23,Female,Timor-Leste,3406.78
+C390,Matthew Bryant,54,Female,Northern Mariana Islands,9703.77
+C391,Jimmy Moore,37,Male,Netherlands Antilles,4496.8
+C392,Matthew Alvarez,54,Female,Hong Kong,3733.76
+C393,Kimberly Hoover,23,Male,Indonesia,7918.72
+C394,Robert Miller,46,Female,Morocco,4724.48
+C395,Harold Hayes,30,Female,Iran,848.11
+C396,Kayla Archer,44,Male,Qatar,8305.52
+C397,Barbara Stewart,67,Female,Ukraine,7925.58
+C398,Nicholas Smith,37,Male,Macao,5198.43
+C399,Cheryl Gutierrez,30,Male,French Southern Territories,195.86
+C400,Eric Price,56,Male,Peru,1449.93
+C401,Randall Dawson,25,Male,Suriname,7148.71
+C402,Russell Jones,34,Male,Saudi Arabia,5949.49
+C403,Henry Winters,47,Female,Monaco,7030.44
+C404,Megan Hart,18,Female,Tajikistan,3673.25
+C405,Jennifer Johnson,41,Female,Dominica,6330.83
+C406,Cheryl Hughes,33,Male,Comoros,4404.78
+C407,Caleb Bell,28,Female,Jersey,4196.63
+C408,Luis Valdez,21,Female,Cuba,4208.82
+C409,Jesus Spencer,21,Male,Estonia,417.35
+C410,Kathleen Miller,34,Male,Malawi,703.85
+C411,Scott Gibbs,66,Male,Chad,8508.26
+C412,Deborah Wong,27,Male,Madagascar,6985.7
+C413,Ronald Cook,38,Male,Burundi,2381.08
+C414,Kaitlin Johnson,55,Male,Sri Lanka,1269.45
+C415,Lori Mitchell,66,Female,Nauru,503.03
+C416,James Moore,35,Male,Malaysia,4849.1
+C417,Bridget Thompson,27,Male,Saudi Arabia,5920.87
+C418,Margaret Sanchez,62,Male,United Arab Emirates,8989.76
+C419,Lori Dougherty,33,Male,Marshall Islands,9210.69
+C420,Dr. Michael Williams,56,Female,Slovakia (Slovak Republic),3725.82
+C421,Douglas Jackson,32,Female,United States Minor Outlying Islands,9315.31
+C422,Darrell Johns,51,Female,Macedonia,5503.22
+C423,Shawn Taylor,22,Male,Taiwan,5783.51
+C424,Alexis Conrad,34,Male,Sweden,1868.49
+C425,James Solis,54,Male,Oman,1247.03
+C426,Mrs. Samantha Hicks MD,25,Male,Lebanon,2519.32
+C427,Ashley Carr,41,Male,United States Virgin Islands,1330.46
+C428,Megan James,45,Female,Guam,2310.59
+C429,Jeffrey Mcintyre,64,Male,Eritrea,5444.15
+C430,David Taylor,25,Male,Jersey,8695.72
+C431,Kim Jones,40,Male,Gabon,7970.38
+C432,Matthew Church,52,Male,Korea,420.33
+C433,Jeffrey Ruiz,48,Male,United States of America,7015.72
+C434,James Brewer,34,Female,Pakistan,563.24
+C435,Kevin Houston,45,Female,Mali,9980.45
+C436,Dr. Jacqueline Johnson DDS,65,Male,Austria,7862.73
+C437,David Williams,65,Female,Somalia,2390.68
+C438,Robert Maynard,68,Female,Saint Lucia,4952.09
+C439,Shawn Williams,29,Female,Congo,7466.6
+C440,Alyssa Fisher,41,Male,Equatorial Guinea,8414.08
+C441,Jenna Middleton,32,Female,Kuwait,2365.69
+C442,Lindsey Martin,57,Female,Portugal,1426.09
+C443,Jason Lawrence,48,Male,Bangladesh,9317.66
+C444,Diane Gordon DVM,44,Male,Andorra,6740.54
+C445,Mark Miranda,52,Male,Cook Islands,8775.22
+C446,Nicole Gonzalez,35,Male,Nauru,2400.59
+C447,Cassandra Silva,53,Female,Bosnia and Herzegovina,1374.1
+C448,Mark Carter,25,Male,Togo,3568.22
+C449,Michael Adams,63,Male,Equatorial Guinea,2601.73
+C450,Hannah Anderson,66,Male,South Africa,820.27
+C451,Carol Jordan,55,Male,Western Sahara,6480.34
+C452,Billy Page,22,Male,Afghanistan,2587
+C453,Paula Gardner,31,Male,Sweden,4557.22
+C454,Caroline Clark,55,Female,Tunisia,2954.18
+C455,Joseph Fuentes,37,Male,Cuba,9219.8
+C456,Stephen Fitzgerald,61,Male,Wallis and Futuna,4557.07
+C457,Frances Wilson,26,Male,Ukraine,8810.58
+C458,Sarah Ortiz,50,Female,Colombia,535.76
+C459,Stephanie Peterson,35,Female,Nicaragua,5404.44
+C460,Evelyn Neal,23,Male,China,4582.03
+C461,Victoria Manning,54,Male,United States of America,3328.57
+C462,Spencer Riddle,19,Male,Panama,3071.88
+C463,Travis Hunt,47,Female,Guyana,2741.2
+C464,Whitney Hess,23,Female,New Caledonia,2075.34
+C465,Brittany Smith,34,Male,Sudan,4977.06
+C466,Michele Walls,56,Male,Ethiopia,3516.86
+C467,Melissa Holland,58,Male,Algeria,3372.95
+C468,Matthew Holden,40,Male,Peru,755.45
+C469,Michael Mendez,48,Male,Palestinian Territory,237.26
+C470,Ricky Smith,37,Male,Andorra,9125.4
+C471,Ruth Castillo,22,Male,Angola,4196.21
+C472,Jesse Silva,38,Female,Netherlands,6802.74
+C473,John Rowe,60,Female,United States Virgin Islands,4578.75
+C474,Kristina Wilcox,28,Male,Vanuatu,2086.31
+C475,Scott Mccall,21,Female,Chad,9301.8
+C476,Ronald Atkinson,40,Male,Switzerland,1314.35
+C477,Kelly Franklin,55,Female,Trinidad and Tobago,4865.61
+C478,Michael Sullivan,47,Male,Georgia,1008.11
+C479,Chad Price,59,Male,Swaziland,2369.83
+C480,Krystal Hendricks,58,Female,Dominica,6885.61
+C481,Angie Chapman,35,Male,India,5311.48
+C482,Jonathon Gibson,69,Male,Swaziland,5545.54
+C483,Brian Whitaker,58,Male,Luxembourg,8339.16
+C484,Matthew Kennedy Jr.,60,Male,Saint Vincent and the Grenadines,701.7
+C485,Caitlin Phelps,48,Female,Guyana,9057.78
+C486,Briana Jones,47,Female,Togo,6547.15
+C487,James Benton,51,Female,Guinea,6444.98
+C488,Deborah Hall,48,Male,Benin,399.06
+C489,Charles Cain,64,Male,Mozambique,9109.72
+C490,Sean Morrow,55,Male,Jersey,377.02
+C491,Justin Smith,42,Male,Slovenia,1935.93
+C492,Kristin Campos,34,Male,Brazil,8969.52
+C493,Michael Velazquez MD,53,Male,Reunion,1354.6
+C494,Grace Davis,57,Female,Anguilla,4040.08
+C495,Darrell Roberson,47,Female,Seychelles,7624.49
+C496,Danny Simpson,19,Female,China,5673.18
+C497,Katrina Peterson,41,Male,American Samoa,7331.73
+C498,Kenneth Perez,26,Male,Nauru,2009.18
+C499,James Chang,18,Female,Marshall Islands,4179.32
+C500,Timothy Newton,41,Female,Faroe Islands,5034.04
+C501,Dr. Ian Cruz,55,Male,Guinea,2511.87
+C502,Richard Morales,65,Female,Saint Vincent and the Grenadines,9979.38
+C503,Kaitlin Douglas,44,Male,Cote d'Ivoire,6744.04
+C504,Thomas Reynolds,43,Male,Trinidad and Tobago,8849.42
+C505,James Miranda,43,Male,Uruguay,3990.37
+C506,Sharon Castillo MD,24,Male,Hungary,9255.91
+C507,Gregory Sanchez,42,Female,Congo,2591.1
+C508,Tyler Porter,33,Female,Ghana,1663.05
+C509,James Price,55,Female,Colombia,7889.91
+C510,Veronica Bray,59,Male,South Africa,9732.86
+C511,Lisa Lowe,35,Male,Christmas Island,714.15
+C512,Katelyn Edwards,34,Male,Luxembourg,1090.03
+C513,Anna Stewart,66,Female,Palestinian Territory,3247.19
+C514,Crystal Ponce,61,Male,Canada,5306.91
+C515,Ms. Amanda Davis,64,Female,New Caledonia,7072.29
+C516,Gabriel Wilson,23,Female,Namibia,9559.95
+C517,Helen Hall,37,Male,Macedonia,1266.42
+C518,James Smith,65,Female,Ireland,3627.52
+C519,Larry Donovan,40,Male,Myanmar,2736.21
+C520,Patrick Gonzalez,63,Male,Nigeria,8093.44
+C521,Steven Mathis,29,Female,Wallis and Futuna,1719.23
+C522,Christopher Young,29,Male,United States Minor Outlying Islands,8780.71
+C523,Janet Aguirre,51,Female,Tokelau,7759.73
+C524,James Cannon,25,Female,Denmark,8849.8
+C525,Debra Aguilar,44,Female,United Kingdom,9694.76
+C526,Samantha Byrd,66,Female,Afghanistan,5777.09
+C527,Linda Davis,25,Female,Austria,4638.28
+C528,Michelle Nelson,65,Male,Jordan,4901.8
+C529,Lisa Hopkins,50,Female,Ukraine,8965.58
+C530,Kenneth Keller,54,Female,Netherlands Antilles,2165.96
+C531,Jordan Martinez,36,Female,Antigua and Barbuda,3815.97
+C532,Thomas Martinez,41,Female,Oman,6447.22
+C533,Julie Gibson,39,Male,Oman,7188.72
+C534,Jason Bennett,20,Male,Oman,658.08
+C535,Gabriela Short,26,Male,Venezuela,9783.72
+C536,David Castillo,28,Female,Burkina Faso,3381.37
+C537,Allison Cummings,23,Female,Macao,2140.03
+C538,Jared Duran,56,Female,Belize,3141.01
+C539,Jeffrey King,56,Male,Italy,9849.25
+C540,Darren Campbell,54,Male,Georgia,6718.91
+C541,Linda Noble,19,Male,Greenland,2528.25
+C542,Kelly Miller,54,Female,Norfolk Island,2090.85
+C543,Joseph Nunez,23,Male,United States Virgin Islands,841.46
+C544,Brittney Johnson,23,Female,Nigeria,3695.82
+C545,Renee Cannon,56,Male,Vanuatu,8255.16
+C546,Michael Jenkins,53,Female,Sweden,2826.71
+C547,James Cobb,42,Female,Nicaragua,3748.06
+C548,Tonya Barron,67,Male,Comoros,7638.22
+C549,Kelly Ramsey,33,Female,Rwanda,6989.87
+C550,Thomas Marquez,38,Male,Bahamas,4183.09
+C551,Jessica Schultz,68,Male,Guadeloupe,1726.76
+C552,Stephanie Duncan,27,Female,Burundi,8948.35
+C553,Jeremy Sanchez,22,Male,Germany,5793.11
+C554,Sarah Peters,67,Male,Palestinian Territory,2642
+C555,Andrew Anderson,42,Female,San Marino,2444.22
+C556,Michael Walker,48,Female,Falkland Islands (Malvinas),4539.02
+C557,Shannon Todd,20,Female,Libyan Arab Jamahiriya,4091.16
+C558,Matthew Mcneil,37,Female,Liberia,781.92
+C559,Gina Jennings,21,Male,Netherlands,9437.11
+C560,Justin Kelly,31,Male,United States Minor Outlying Islands,7890.85
+C561,Jeffrey Alvarado,29,Male,Greenland,5015.83
+C562,Julie Thomas,31,Female,Faroe Islands,3336.34
+C563,Nicole Finley,54,Male,Ukraine,1896.62
+C564,John Fernandez,35,Male,Oman,1746.27
+C565,Michele Smith,44,Female,Belarus,2480.85
+C566,Scott Richards,24,Male,Kuwait,2283.23
+C567,Jennifer Clark,65,Female,Spain,7126.04
+C568,Zachary Taylor,52,Male,Saudi Arabia,7719.37
+C569,Katherine James,39,Female,Cayman Islands,3698.47
+C570,Angela Cordova,38,Male,Ukraine,1678
+C571,Adrian Barnes DDS,60,Female,Botswana,6482.87
+C572,Patrick Saunders,35,Female,Malawi,3395.03
+C573,Walter Johnson,55,Female,Eritrea,9329.27
+C574,Kayla Hernandez,43,Female,Moldova,7907.74
+C575,Kevin Ramirez,39,Female,Rwanda,9878.81
+C576,Colleen Cruz,54,Male,Iraq,8884.89
+C577,Gina Holloway,22,Female,Netherlands,152.62
+C578,Brandon Moore,65,Female,Kiribati,697.32
+C579,Kristy Brown,52,Male,Italy,8992.1
+C580,Karen Flores PhD,29,Male,Paraguay,1277.43
+C581,Jeffrey Beck,52,Female,Cayman Islands,5996.28
+C582,Pamela Mcclure,51,Female,Netherlands,3612.73
+C583,Jeffrey Johnson,64,Male,Uzbekistan,434.34
+C584,James Cooper,37,Female,Italy,920.47
+C585,Robert Lopez,66,Male,Seychelles,7681.74
+C586,Kimberly Morgan,29,Female,Brunei Darussalam,8439.78
+C587,Candice Simpson,51,Female,Poland,3695.92
+C588,Scott Rivera,43,Female,Palestinian Territory,2543.05
+C589,Zachary Austin,51,Male,Suriname,4986.55
+C590,Richard Jones,49,Female,Wallis and Futuna,1607.6
+C591,Kelly Callahan,63,Male,Singapore,6207.71
+C592,Karina Meyer,24,Female,Solomon Islands,7421.13
+C593,Hannah Grant,43,Male,Bouvet Island (Bouvetoya),7069.26
+C594,Whitney Steele,42,Male,Mozambique,9327.59
+C595,Jennifer Lynch,63,Female,Sierra Leone,6056.96
+C596,Hannah Adams,56,Male,Bouvet Island (Bouvetoya),5992.45
+C597,Hannah Cooke,69,Male,Taiwan,7396.15
+C598,Cindy Clayton,34,Male,Colombia,7285.26
+C599,Mrs. Mary Hammond,41,Male,San Marino,2863.8
