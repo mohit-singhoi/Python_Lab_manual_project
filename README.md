@@ -231,9 +231,3 @@ Contributions are welcome. Suggested workflow:
 ---
 
 
-
-## Contact
-
-For questions or feedback, open an issue or contact the instructor/maintainer listed in the project header.
-
-Happy learning! 👩\u200d💻👨\u200d💻
